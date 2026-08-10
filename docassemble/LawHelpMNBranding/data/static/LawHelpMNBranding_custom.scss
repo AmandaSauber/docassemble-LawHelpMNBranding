@@ -46,7 +46,7 @@ $h6-font-size: 1.25rem;            // 20px
 
 /* Links */
 $link-color: $lh-teal;
-$link-hover-color: rgb(194, 87, 0);
+$link-hover-color: $lh-orange;
 $link-decoration: none;
 
 /* Borders & Radius */
@@ -97,6 +97,6 @@ $accordion-button-active-bg: #ffffff;
 $accordion-button-active-color: $lh-ink;
 
 /* Navbar */
-$navbar-light-color: #0D7D9C;
-$navbar-light-hover-color: #C25700;
-$navbar-light-active-color: #0D7D9C;
+$navbar-light-color: $lh-ink;
+$navbar-light-hover-color: $lh-teal;
+$navbar-light-active-color: $lh-teal;
