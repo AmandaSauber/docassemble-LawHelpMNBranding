@@ -91,8 +91,8 @@
   --bs-link-color: rgb(13, 125, 156);
   --bs-link-color-rgb: 13, 125, 156;
   --bs-link-decoration: underline;
-  --bs-link-hover-color: rgb(10.4, 100, 124.8);
-  --bs-link-hover-color-rgb: 10, 100, 125;
+  --bs-link-hover-color: rgb(194, 87, 0);
+  --bs-link-hover-color-rgb: 194, 87, 0;
   --bs-code-color: #d63384;
   --bs-highlight-color: rgb(46, 42, 37);
   --bs-highlight-bg: rgb(255, 242.6, 205.4);
@@ -162,9 +162,9 @@
   --bs-dark-border-subtle: #343a40;
   --bs-heading-color: inherit;
   --bs-link-color: rgb(109.8, 177, 195.6);
-  --bs-link-hover-color: rgb(138.84, 192.6, 207.48);
+  --bs-link-hover-color: rgb(194, 87, 0);
   --bs-link-color-rgb: 110, 177, 196;
-  --bs-link-hover-color-rgb: 139, 193, 207;
+  --bs-link-hover-color-rgb: 194, 87, 0;
   --bs-code-color: rgb(230.4, 132.6, 181.2);
   --bs-highlight-color: #dee2e6;
   --bs-highlight-bg: rgb(102, 77.2, 2.8);
@@ -3618,7 +3618,7 @@ textarea.form-control-lg {
   --bs-dropdown-link-color: #dee2e6;
   --bs-dropdown-link-hover-color: #fff;
   --bs-dropdown-divider-bg: var(--bs-border-color-translucent);
-  --bs-dropdown-link-hover-bg: rgba(255, 255, 255, 0.15);
+  --bs-dropdown-link-hover-bg: rgba(194, 87, 0, 100);
   --bs-dropdown-link-active-color: #fff;
   --bs-dropdown-link-active-bg: rgb(13, 125, 156);
   --bs-dropdown-link-disabled-color: #adb5bd;
