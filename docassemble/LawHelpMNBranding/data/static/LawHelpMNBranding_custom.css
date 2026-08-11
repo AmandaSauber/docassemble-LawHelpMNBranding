@@ -3030,7 +3030,7 @@ textarea.form-control-lg {
   --bs-btn-disabled-border-color: #518302;
 }
 
-btn-success {
+.btn-success {
     --bs-btn-color: #fff;
     --bs-btn-bg: #0C5781;
     --bs-btn-border-color: #0C5781;
