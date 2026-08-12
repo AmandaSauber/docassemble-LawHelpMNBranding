@@ -6,6 +6,7 @@
  */
 :root,
 [data-bs-theme=light] {
+  --lhmn-header-subfooter-bg: #518302;
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
   --bs-purple: #6f42c1;
@@ -123,7 +124,6 @@
   --bs-form-valid-border-color: #198754;
   --bs-form-invalid-color: #dd241b;
   --bs-form-invalid-border-color: #dd241b;
-  --lhmn-header-subfooter-bg: #518302;
 }
 
 [data-bs-theme=dark] {
@@ -713,12 +713,12 @@ progress {
   content: "— ";
 }
 
-footer a {
-    color: #E3E8E8;
-}
-
 .danav, .dafooter {
   background: var(--lhmn-header-subfooter-bg)
+}
+
+footer a {
+    color: #E3E8E8;
 }
 
 .img-fluid {
