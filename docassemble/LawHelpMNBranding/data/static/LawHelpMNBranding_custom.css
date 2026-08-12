@@ -713,7 +713,7 @@ progress {
   content: "— ";
 }
 
-.danav, .dafooter {
+.dafooter {
   background: var(--lhmn-header-subfooter-bg)
 }
 
