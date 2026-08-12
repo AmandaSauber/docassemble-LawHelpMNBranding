@@ -54,7 +54,7 @@
   --bs-light-text-emphasis: #2E2A25;
   --bs-dark-text-emphasis: #495057;
   --bs-primary-bg-subtle: #cfe5eb;
-  --bs-secondary-bg-subtle: #518302;
+  --bs-secondary-bg-subtle: #F2F2F2;
   --bs-success-bg-subtle: #d1e7dd;
   --bs-info-bg-subtle: #cff4fc;
   --bs-warning-bg-subtle: #fff3cd;
@@ -8829,7 +8829,7 @@ textarea.form-control-lg {
 }
 
 .bg-secondary-subtle {
-  background-color: #F2F2F2;
+  background-color: var(--bs-secondary-bg-subtle);
 }
 
 .bg-success-subtle {
