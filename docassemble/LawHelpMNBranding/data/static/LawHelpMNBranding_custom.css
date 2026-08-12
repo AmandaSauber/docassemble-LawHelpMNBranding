@@ -712,6 +712,10 @@ progress {
   content: "— ";
 }
 
+footer a {
+    color: #E3E8E8;
+}
+
 .img-fluid {
   max-width: 100%;
   height: auto;
