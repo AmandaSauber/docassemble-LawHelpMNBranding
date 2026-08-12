@@ -6,7 +6,6 @@
  */
 :root,
 [data-bs-theme=light] {
-  --lhmn-navbar-color: #ffffff
   --lhmn-footer-bg: #518302;
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -3793,7 +3792,6 @@ textarea.form-control-lg {
   font-size: var(--bs-nav-link-font-size);
   font-weight: var(--bs-nav-link-font-weight);
   color: #11A6DO;
-  color: var(--lhmn-navbar-color);
   background: transparent;
   --bs-nav-link-hover-color: #C25700;
   border: 0;
