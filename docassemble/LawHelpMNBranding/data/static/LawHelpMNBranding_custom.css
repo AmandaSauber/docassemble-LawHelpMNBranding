@@ -6,7 +6,7 @@
  */
 :root,
 [data-bs-theme=light] {
-  --lhmn-header-subfooter-bg: #518302;
+  --lhmn-footer-bg: #518302;
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
   --bs-purple: #6f42c1;
@@ -87,8 +87,8 @@
   --bs-emphasis-color-rgb: 0, 0, 0;
   --bs-secondary-color: rgba(46, 42, 37, 0.75);
   --bs-secondary-color-rgb: 46, 42, 37;
-  --bs-secondary-bg: #e9ecef;
-  --bs-secondary-bg-rgb: 233, 236, 239;
+  --bs-secondary-bg: #E3E8E8;
+  --bs-secondary-bg-rgb: 227, 232, 232;
   --bs-tertiary-color: rgba(46, 42, 37, 0.5);
   --bs-tertiary-color-rgb: 46, 42, 37;
   --bs-tertiary-bg: #f8f9fa;
@@ -714,11 +714,12 @@ progress {
 }
 
 .dafooter {
-  background: var(--lhmn-header-subfooter-bg)
+  background: var(--lhmn-footer-bg)
 }
 
 footer a {
     color: #E3E8E8;
+    background: var(--lhmn-footer-bg)
 }
 
 .img-fluid {
