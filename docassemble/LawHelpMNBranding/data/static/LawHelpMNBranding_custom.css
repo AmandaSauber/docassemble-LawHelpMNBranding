@@ -713,7 +713,7 @@ progress {
   content: "— ";
 }
 
-.dafooter {
+footer a {
     color: #E3E8E8;
     background: var(--lhmn-footer-bg)
 }
