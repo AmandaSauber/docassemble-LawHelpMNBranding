@@ -715,7 +715,7 @@ progress {
  
 footer a {
     color: #E3E8E8;
-    background-color: var(--lhmn-footer-bg)
+    background: var(--lhmn-footer-bg)
 }
 
 .img-fluid {
