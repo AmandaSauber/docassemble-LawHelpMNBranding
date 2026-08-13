@@ -6,7 +6,6 @@
  */
 :root,
 [data-bs-theme=light] {
-  --lhmn-footer-bg: #518302;
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
   --bs-purple: #6f42c1;
@@ -712,10 +711,15 @@ progress {
 .blockquote-footer::before {
   content: "— ";
 }
+ 
+.dafooter {
+ background-color: #518302 !important;
 
-footer a {
-    color: #E3E8E8;
-    background-color: var(--lhmn-footer-bg)
+}
+ 
+.dafooter a {
+ color: #F2F2F2;
+
 }
 
 .img-fluid {
