@@ -712,7 +712,6 @@ progress {
 .blockquote-footer::before {
   content: "— ";
 }
- 
 footer a {
   color: #E3E8E8;
   background-color: var(--lhmn-footer-bg);
