@@ -712,14 +712,12 @@ progress {
   content: "— ";
 }
  
-.dafooter {
- background-color: #518302 !important;
-
+footer.dafooter {
+ background: #518302 !important;
 }
  
 .dafooter a {
  color: #F2F2F2;
-
 }
 
 .img-fluid {
