@@ -55,6 +55,7 @@
   --bs-dark-text-emphasis: #495057;
   --bs-primary-bg-subtle: #cfe5eb;
   --bs-secondary-bg-subtle: #F2F2F2;
+  --lhmn-footer-bg: #518302;
   --bs-success-bg-subtle: #d1e7dd;
   --bs-info-bg-subtle: #cff4fc;
   --bs-warning-bg-subtle: #fff3cd;
@@ -712,12 +713,9 @@ progress {
   content: "— ";
 }
  
-footer.bg-secondary-subtle.dafooter {
-  background-color: #518302 !important;
-}
- 
-.dafooter a {
+footer a {
   color: #F2F2F2;
+  background-color: var(--lhmn-footer-bg);
 }
 
 .img-fluid {
