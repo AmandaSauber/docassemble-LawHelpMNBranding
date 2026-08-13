@@ -6,6 +6,7 @@
  */
 :root,
 [data-bs-theme=light] {
+  --lhmn-footer-bg: #518302;
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
   --bs-purple: #6f42c1;
@@ -55,7 +56,6 @@
   --bs-dark-text-emphasis: #495057;
   --bs-primary-bg-subtle: #cfe5eb;
   --bs-secondary-bg-subtle: #F2F2F2;
-  --lhmn-footer-bg: #518302;
   --bs-success-bg-subtle: #d1e7dd;
   --bs-info-bg-subtle: #cff4fc;
   --bs-warning-bg-subtle: #fff3cd;
