@@ -714,10 +714,7 @@ progress {
 }
  
 footer a {
-    color: #E3E8E8;
-}
-
-footer.bg-secondary-subtle-dafooter {
+  color: #E3E8E8;
   background-color: var(--lhmn-footer-bg);
 }
 
