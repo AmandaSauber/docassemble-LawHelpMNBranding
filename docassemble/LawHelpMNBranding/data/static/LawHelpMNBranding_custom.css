@@ -3796,7 +3796,10 @@ textarea.form-control-lg {
   border: 0;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
-.dabody .daadminbody .navbar .nav-link {
+.dabody .navbar .nav-link {
+    color: var(--lhmn-header-nav-link);
+}
+.daadminbody .navbar .nav-link {
     color: var(--lhmn-header-nav-link);
 }
 @media (prefers-reduced-motion: reduce) {
