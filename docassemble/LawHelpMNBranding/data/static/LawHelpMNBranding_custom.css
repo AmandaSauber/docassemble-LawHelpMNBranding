@@ -3802,6 +3802,9 @@ textarea.form-control-lg {
 .daadminbody .navbar .nav-link {
     color: var(--lhmn-header-nav-link);
 }
+.dasignature .navbar .nav-link {
+    color: var(--lhmn-header-nav-link);
+}
 @media (prefers-reduced-motion: reduce) {
   .nav-link {
     transition: none;
